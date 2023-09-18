@@ -14,7 +14,7 @@ Process two photon frame scan tiff images. Perform background subtraction, creat
 Process interleaved two photon frame scan tiff images. Estimate cross sectional diameter using the TiRS method (Developed by Dr. Patrick Drew), and perform spectral calculations on the resulting diameter time series. Calculate spectra, phase, and coherence for each trial and plot these results.
 
 ## Statistics
-Helper functions for various calculations. Perform regression through the origin and calculate the associated uncertainty in slope. Perform line subtraction (developed by Partha Mitra and others) to detect and remove sinusoidal components from complex timeseries data. Calculate 2D cross correlation using MATLAB's fft2 to detect motion artifacts in two photon data. Plot segmentation of vessels on top of the associated mask or raw image for visualization purposes.
+Helper functions for various calculations. Perform regression through the origin and calculate the associated uncertainty in slope. Perform line subtraction (developed by Dr. Partha Mitra and others) to detect and remove sinusoidal components from complex timeseries data. Calculate 2D cross correlation using MATLAB's fft2 to detect motion artifacts in two photon data. Plot segmentation of vessels on top of the associated mask or raw image for visualization purposes.
 
 ## Plotting
 Code to produce figures. Load each dataset individually, plot and save individual graphs and figures across different imaging modalities.
