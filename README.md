@@ -1,5 +1,5 @@
 # VesselDynamics
-Code for processing widefield and two photon vascular imaging data
+Code for processing widefield and two photon vascular imaging data. This respoitory focuses on extracting time series data from widefield and two photon tiff images, and performing spectral calculations on these timeseries to gain insight to vascular dynamics.
 Many files in this repository use functions from the CHRONUX toolbox: http://chronux.org/ and/or functions developed by Xiang Ji: https://github.com/xiangjiph/VCRA
 
 ## Widefield
