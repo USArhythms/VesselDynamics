@@ -1,5 +1,6 @@
 # VesselDynamics
 Code for processing widefield and two photon vascular imaging data
+Many scripts in this repository use functions from the CHRONUX toolbox: http://chronux.org/ and/or functions developed by Xiang Ji:https://github.com/xiangjiph/VCRA
 
 ## Widefield
 Extract and save df/f (x,t) from tiff images. Compute the peak vasomotor frequency, preform space-frequency SVD, and plot the dominant mode's magnitude and phase. 
